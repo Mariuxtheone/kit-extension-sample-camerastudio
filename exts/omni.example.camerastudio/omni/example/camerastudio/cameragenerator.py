@@ -4,10 +4,6 @@ import omni.kit.commands
 from pxr import UsdGeom
 from omni.kit.window.file_importer import get_file_importer
 
-
-
-
-
 class CameraGenerator():
     def __init__(self):
         pass

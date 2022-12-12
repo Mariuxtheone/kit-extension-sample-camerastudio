@@ -44,6 +44,7 @@ class CSVReader():
                     distance = row[3]
                     print (f'Distance: {distance}.')
 
+                    #do something with the csv data. in this case, generate a camera
                     cameraGenerator = CameraGenerator()
 
                     cameraGenerator.generate_camera(str(shot_name), float(focal_length), float(aperture), float(distance))
