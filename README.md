@@ -1,4 +1,4 @@
-# Camera Studio
+# Camera Studio - NVIDIA Omniverse Extension
 
 <img src="https://github.com/Mariuxtheone/kit-extension-sample-camerastudio/blob/main/exts/omni.example.camerastudio/data/icon.png" width="128">
 
