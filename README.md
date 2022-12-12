@@ -1,10 +1,10 @@
 # Camera Studio
 
-![Image](\exts\omni.example.camerastudio\data\icon.png)
+![Image](/exts/omni.example.camerastudio/data/icon.png)
 
 This extension allows to open a CSV file containing information about Camera Settings and generate in-scene Cameras accordingly.
 
-![Image](\exts\omni.example.camerastudio\data\preview.png)
+![Image](/exts/omni.example.camerastudio/data/preview.png)
 
 Usage:
 
@@ -96,4 +96,7 @@ Link might look like this: `git://github.com/[user]/[your_repo].git?branch=main&
 Notice `exts` is repo subfolder with extensions. More information can be found in "Git URL as Extension Search Paths" section of developers manual.
 
 To add a link to your *Omniverse Kit* based app go into: Extension Manager -> Gear Icon -> Extension Search Path
+
+## Contributing
+The source code for this repository is provided as-is and we are not accepting outside contributions.
 
