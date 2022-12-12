@@ -1,6 +1,6 @@
 # Camera Studio
 
-<img src="https://github.com/Mariuxtheone/kit-extension-sample-camerastudio/blob/main/exts/omni.example.camerastudio/data/icon.png" width="256">
+<img src="https://github.com/Mariuxtheone/kit-extension-sample-camerastudio/blob/main/exts/omni.example.camerastudio/data/icon.png" width="128">
 
 This extension allows to open a CSV file containing information about Camera Settings and generate in-scene Cameras accordingly.
 
